@@ -1,0 +1,400 @@
+                                       feature factor    weight
+588                 rx_LISINOPRIL 10 MG TABLET      0  0.017072
+707               rx_ATORVASTATIN 10 MG TABLET      0  0.001764
+629  rx_metFORMIN (GLUCOPHAGE) 1,000 mg tablet      0  0.001526
+694                 rx_FUROSEMIDE 20 MG TABLET      0  0.000802
+700        rx_HYDROCHLOROTHIAZIDE 25 MG TABLET      0  0.000674
+
+
+                                                feature factor    weight
+978                          Age-related cataract (H25)      1  0.018424
+1157    Age-related nuclear cataract, bilateral (H2513)      1  0.010559
+1221                   Disorders of vitreous body (H43)      1  0.006340
+1042  Age-related nuclear cataract, unspecified eye ...      1  0.003430
+1098          Vitreous degeneration, bilateral (H43813)      1  0.003342
+
+
+                                                feature factor    weight
+1490                     Type 2 diabetes mellitus (E11)      2  0.017431
+1487  Type 2 diabetes mellitus without complications...      2  0.014857
+2107          rx_metFORMIN (GLUCOPHAGE) 1,000 mg tablet      2  0.003840
+1565  Type 2 diabetes mellitus with hyperglycemia (E...      2  0.002601
+2170  rx_insulin glargine (LANTUS SOLOSTAR) 100 unit...      2  0.001793
+
+
+                                                feature factor    weight
+2441                    Abdominal and pelvic pain (R10)      3  0.018510
+2670                          Nausea and vomiting (R11)      3  0.009413
+2451                  Unspecified abdominal pain (R109)      3  0.008070
+2621  Other symptoms and signs involving the digesti...      3  0.005677
+2712        Other functional intestinal disorders (K59)      3  0.005466
+
+
+                                                feature factor    weight
+3607  rx_FLUTICASONE 50 MCG/ACTUATION NASAL SPRAY,SU...      4  0.031029
+3679              rx_loratadine (CLARITIN) 10 mg tablet      4  0.005613
+3628                        rx_MONTELUKAST 10 MG TABLET      4  0.004086
+3320              Vasomotor and allergic rhinitis (J30)      4  0.004039
+3523                         rx_CETIRIZINE 10 MG TABLET      4  0.002464
+
+
+                                                feature factor    weight
+4162             Essential (primary) hypertension (I10)      5  0.033023
+4114  Disorders of lipoprotein metabolism and other ...      5  0.033009
+3979                 Hyperlipidemia, unspecified (E785)      5  0.026413
+3909     Pure hypercholesterolemia, unspecified (E7800)      5  0.003156
+4225                        Mixed hyperlipidemia (E782)      5  0.002757
+
+
+                                                feature factor    weight
+5064                       rx_ATORVASTATIN 40 MG TABLET      6  0.021350
+5059                         rx_AMLODIPINE 10 MG TABLET      6  0.009452
+5121                        rx_CLOPIDOGREL 75 MG TABLET      6  0.005008
+5118               rx_lisinopril (ZESTRIL) 40 mg tablet      6  0.002520
+5031  rx_METOPROLOL SUCCINATE ER 25 MG TABLET,EXTEND...      6  0.001560
+
+
+                                              feature factor    weight
+5649  Disorders of refraction and accommodation (H52)      7  0.012093
+5584                             Other cataract (H26)      7  0.006410
+5242                      Unspecified cataract (H269)      7  0.006410
+5396                                Presbyopia (H524)      7  0.006198
+5658                        Myopia, bilateral (H5213)      7  0.005688
+
+
+                                                feature factor    weight
+6331  Disorders of lipoprotein metabolism and other ...      8  0.027044
+6196                 Hyperlipidemia, unspecified (E785)      8  0.021580
+6442                        Mixed hyperlipidemia (E782)      8  0.002722
+6214  Benign neoplasm of colon, rectum, anus and ana...      8  0.001797
+5934       Benign neoplasm of colon, unspecified (D126)      8  0.001543
+
+
+                                                feature factor    weight
+6663                     Type 2 diabetes mellitus (E11)      9  0.157721
+6660  Type 2 diabetes mellitus without complications...      9  0.138055
+6738  Type 2 diabetes mellitus with hyperglycemia (E...      9  0.021308
+7280          rx_metFORMIN (GLUCOPHAGE) 1,000 mg tablet      9  0.019453
+6892  Type 2 diabetes mellitus with unspecified comp...      9  0.016813
+
+
+                                                feature factor    weight
+7405             Gastro-esophageal reflux disease (K21)     10  0.017988
+7520  Gastro-esophageal reflux disease without esoph...     10  0.017406
+8086  rx_omeprazole (PRILOSEC) 40 mg delayed release...     10  0.003147
+8058                        rx_RANITIDINE 150 MG TABLET     10  0.002166
+7816                                       Asthma (J45)     10  0.002063
+
+
+                                 feature factor    weight
+8405  Hypothyroidism, unspecified (E039)     11  0.119995
+8647          Other hypothyroidism (E03)     11  0.119995
+8756      rx_LEVOTHYROXINE 50 MCG TABLET     11  0.012590
+8720      rx_LEVOTHYROXINE 75 MCG TABLET     11  0.012328
+8763     rx_LEVOTHYROXINE 100 MCG TABLET     11  0.012029
+
+
+                                                feature factor    weight
+9445  rx_TAMSULOSIN ER 0.4 MG CAPSULE,EXTENDED RELEA...     12  0.090148
+9192                 Benign prostatic hyperplasia (N40)     12  0.030738
+9207               Malignant neoplasm of prostate (C61)     12  0.025215
+9141  Benign prostatic hyperplasia with lower urinar...     12  0.020099
+9218  Benign prostatic hyperplasia without lower uri...     12  0.014921
+
+
+                                               feature factor    weight
+10242  rx_HYDROCODONE 5 MG-ACETAMINOPHEN 325 MG TABLET     13  0.181441
+10343                       rx_IBUPROFEN 600 MG TABLET     13  0.037863
+10226              rx_ibuprofen (MOTRIN) 800 mg tablet     13  0.022794
+10319  rx_ERGOCALCIFEROL (VITAMIN D2) (VITAMIN D ORAL)     13  0.015344
+10256                rx_DOCUSATE SODIUM 100 MG CAPSULE     13  0.013125
+
+
+                                                 feature factor    weight
+10743                       Overweight and obesity (E66)     14  0.034863
+10720                        Obesity, unspecified (E669)     14  0.023487
+10751  Morbid (severe) obesity due to excess calories...     14  0.012579
+10813             Essential (primary) hypertension (I10)     14  0.005341
+10845                 Elevated blood glucose level (R73)     14  0.004419
+
+
+                                                 feature factor    weight
+11499    Major depressive disorder, single episode (F32)     15  0.019175
+11098  Major depressive disorder, single episode, uns...     15  0.019175
+11647                        rx_SERTRALINE 100 MG TABLET     15  0.003254
+11632   rx_buPROPion (WELLBUTRIN XL) 300 mg 24 hr tablet     15  0.002525
+11771                          rx_TRAZODONE 50 MG TABLET     15  0.002354
+
+
+                                                 feature factor    weight
+12221                       Overweight and obesity (E66)     16  0.050947
+12198                        Obesity, unspecified (E669)     16  0.029154
+12229  Morbid (severe) obesity due to excess calories...     16  0.021849
+12323                 Elevated blood glucose level (R73)     16  0.009477
+11871                                Prediabetes (R7303)     16  0.006820
+
+
+                                                 feature factor    weight
+13187  rx_peg 3350-electrolytes (TRILYTE WITH FLAVOR ...     17  0.037613
+12865  Benign neoplasm of colon, rectum, anus and ana...     17  0.011110
+12585       Benign neoplasm of colon, unspecified (D126)     17  0.005487
+13062                 Elevated blood glucose level (R73)     17  0.003274
+12770                  Other diseases of intestine (K63)     17  0.003239
+
+
+                                feature factor    weight
+13847  rx_ASPIRIN 81 MG CHEWABLE TABLET     18  0.067779
+14009      rx_ATORVASTATIN 10 MG TABLET     18  0.003460
+13916  rx_LATANOPROST 0.005 % EYE DROPS     18  0.003037
+13946       rx_SIMVASTATIN 40 MG TABLET     18  0.003030
+13869        rx_CETIRIZINE 10 MG TABLET     18  0.002893
+
+
+                                    feature factor    weight
+14127                       Dorsalgia (M54)     19  0.009226
+14221  Pain, not elsewhere classified (G89)     19  0.007860
+14347            Other chronic pain (G8929)     19  0.007628
+14212                  Low back pain (M545)     19  0.005553
+14163                    Cervicalgia (M542)     19  0.001755
+
+
+                                                 feature factor    weight
+15408                          rx_FOLIC ACID 1 MG TABLET     20  0.012984
+15498                          rx_PREDNISONE 5 MG TABLET     20  0.010297
+15171  Disorder involving the immune mechanism, unspe...     20  0.009375
+15148  Other disorders involving the immune mechanism...     20  0.009375
+15369    rx_hydroxychloroquine (PLAQUENIL) 200 mg tablet     20  0.007740
+
+
+                                                 feature factor    weight
+15938  Disorders of lipoprotein metabolism and other ...     21  0.029675
+15986             Essential (primary) hypertension (I10)     21  0.029272
+15803                 Hyperlipidemia, unspecified (E785)     21  0.023652
+15534             Gastro-esophageal reflux disease (K21)     21  0.010604
+15649  Gastro-esophageal reflux disease without esoph...     21  0.010169
+
+
+                                                feature factor    weight
+16827                      rx_GABAPENTIN 300 MG CAPSULE     22  0.010915
+16829                          rx_TRAMADOL 50 MG TABLET     22  0.004478
+16944                         rx_TRAZODONE 50 MG TABLET     22  0.001102
+16897                   rx_CYCLOBENZAPRINE 10 MG TABLET     22  0.000938
+16990  rx_HYDROCODONE 10 MG-ACETAMINOPHEN 325 MG TABLET     22  0.000810
+
+
+                                      feature factor    weight
+17464  Essential (primary) hypertension (I10)     23  0.059080
+17697     rx_HYDROCHLOROTHIAZIDE 25 MG TABLET     23  0.006052
+17622              rx_AMLODIPINE 10 MG TABLET     23  0.005555
+17668                rx_LOSARTAN 50 MG TABLET     23  0.003136
+17681    rx_lisinopril (ZESTRIL) 40 mg tablet     23  0.003013
+
+
+                                               feature factor    weight
+18212  Disorders of refraction and accommodation (H52)     24  0.019722
+17959                                Presbyopia (H524)     24  0.010987
+17975                       Age-related cataract (H25)     24  0.010085
+18221                        Myopia, bilateral (H5213)     24  0.009946
+18147                             Other cataract (H26)     24  0.009913
+
+
+                                                 feature factor    weight
+18658  Other joint disorder, not elsewhere classified...     25  0.021812
+18507                       Osteoarthritis of knee (M17)     25  0.010232
+18607                        Pain in right knee (M25561)     25  0.004931
+18503                  Pain in unspecified knee (M25569)     25  0.004840
+18492         Other and unspecified osteoarthritis (M19)     25  0.004699
+
+
+                                feature factor    weight
+19667         Nausea and vomiting (R11)     26  0.027675
+19580  Abnormalities of breathing (R06)     26  0.027018
+19656         Malaise and fatigue (R53)     26  0.026696
+19493               Other anemias (D64)     26  0.026187
+19460        Anemia, unspecified (D649)     26  0.026187
+
+
+                                                 feature factor    weight
+20656  rx_CHOLECALCIFEROL (VITAMIN D3) 1,000 UNIT TABLET     27  0.018485
+20597                        rx_SIMVASTATIN 40 MG TABLET     27  0.002001
+20615  rx_cyanocobalamin (VITAMIN B-12) 1,000 mcg tablet     27  0.001776
+20536         rx_ascorbic acid (VITAMIN C) 500 mg Tablet     27  0.001621
+20390  Malignant neoplasm of bladder, unspecified (C679)     27  0.001419
+
+
+                                                 feature factor    weight
+21111  Disorders of lipoprotein metabolism and other ...     28  0.070502
+20976                 Hyperlipidemia, unspecified (E785)     28  0.056362
+21159             Essential (primary) hypertension (I10)     28  0.053529
+21089                       Overweight and obesity (E66)     28  0.017526
+21066                        Obesity, unspecified (E669)     28  0.013382
+
+
+                                                 feature factor    weight
+21611               Pain, not elsewhere classified (G89)     29  0.065456
+21737                         Other chronic pain (G8929)     29  0.058820
+21517                                    Dorsalgia (M54)     29  0.056703
+21602                               Low back pain (M545)     29  0.033178
+21614  Other joint disorder, not elsewhere classified...     29  0.024841
+
+
+                                                 feature factor    weight
+22644                              Sleep disorders (G47)     30  0.122199
+22357  Obstructive sleep apnea (adult) (pediatric) (G...     30  0.110139
+22406                      Insomnia, unspecified (G4700)     30  0.011963
+22225                   Sleep apnea, unspecified (G4730)     30  0.010150
+22575  Morbid (severe) obesity due to excess calories...     30  0.006730
+
+
+                                                 feature factor    weight
+23588            rx_ASPIRIN 81 MG TABLET,DELAYED RELEASE     31  0.078868
+23561                rx_METOPROLOL TARTRATE 25 MG TABLET     31  0.005129
+23589             rx_atorvastatin (LIPITOR) 80 mg tablet     31  0.003144
+23523                   rx_LATANOPROST 0.005 % EYE DROPS     31  0.002783
+23455  rx_budesonide-formoterol (SYMBICORT) 160-4.5 m...     31  0.002733
+
+
+                                             feature factor    weight
+24302                           rx_ELECT/CALORIC/H2O     32  0.031277
+24281  rx_ferrous sulfate 325 mg (65 mg iron) Tablet     32  0.018893
+24341               rx_MAGNESIUM OXIDE 400 MG TABLET     32  0.012471
+24249                     rx_FUROSEMIDE 40 MG TABLET     32  0.002197
+24342                     rx_FUROSEMIDE 20 MG TABLET     32  0.002119
+
+
+                                         feature factor    weight
+24979                 rx_LISINOPRIL 20 MG TABLET     33  0.023073
+25016  rx_metFORMIN (GLUCOPHAGE) 1,000 mg tablet     33  0.007751
+25088        rx_simvastatin (ZOCOR) 20 mg tablet     33  0.003537
+25098                   rx_ASPIRIN 325 MG TABLET     33  0.002142
+25039        rx_METOPROLOL TARTRATE 25 MG TABLET     33  0.001433
+
+
+                                                 feature factor    weight
+25831  rx_ALBUTEROL SULFATE HFA 90 MCG/ACTUATION AERO...     34  0.149690
+25552                                       Asthma (J45)     34  0.032397
+25798                        rx_MONTELUKAST 10 MG TABLET     34  0.025721
+25326  Chronic obstructive pulmonary disease, unspeci...     34  0.019935
+25387  Other chronic obstructive pulmonary disease (J44)     34  0.019935
+
+
+                                                 feature factor    weight
+26562                     rx_ACETAMINOPHEN 500 MG TABLET     35  0.074269
+26514                  rx_DOCUSATE SODIUM 100 MG CAPSULE     35  0.048927
+26468                           rx_OXYCODONE 5 MG TABLET     35  0.022765
+26449  rx_POLYETHYLENE GLYCOL 3350 17 GRAM ORAL POWDE...     35  0.021874
+26436                           rx_TRAMADOL 50 MG TABLET     35  0.009802
+
+
+                                                 feature factor    weight
+26616                     Type 2 diabetes mellitus (E11)     36  0.046322
+26613  Type 2 diabetes mellitus without complications...     36  0.041283
+27071             Essential (primary) hypertension (I10)     36  0.011299
+26691  Type 2 diabetes mellitus with hyperglycemia (E...     36  0.007579
+27023  Disorders of lipoprotein metabolism and other ...     36  0.006364
+
+
+                                        feature factor    weight
+27776             Other anxiety disorders (F41)     37  0.034684
+27544      Anxiety disorder, unspecified (F419)     37  0.028547
+27811       Generalized anxiety disorder (F411)     37  0.006833
+28016                rx_LORAZEPAM 0.5 MG TABLET     37  0.003499
+27362  Other specified anxiety disorders (F418)     37  0.003430
+
+
+                                                 feature factor    weight
+28808                       rx_ATORVASTATIN 20 MG TABLET     38  0.073709
+28707                         rx_AMLODIPINE 10 MG TABLET     38  0.006338
+28766               rx_lisinopril (ZESTRIL) 40 mg tablet     38  0.004087
+28774  rx_insulin glargine (LANTUS SOLOSTAR) 100 unit...     38  0.003919
+28296     Pure hypercholesterolemia, unspecified (E7800)     38  0.003429
+
+
+                                               feature factor    weight
+29297  Disorders of refraction and accommodation (H52)     39  0.038862
+29060                       Age-related cataract (H25)     39  0.034308
+29232                             Other cataract (H26)     39  0.032368
+28890                      Unspecified cataract (H269)     39  0.032368
+29044                                Presbyopia (H524)     39  0.023889
+
+
+                                                 feature factor    weight
+30186                         rx_METFORMIN 500 MG TABLET     40  0.063403
+30261                rx_simvastatin (ZOCOR) 20 mg tablet     40  0.009748
+30171                       rx_ALPRAZOLAM 0.25 MG TABLET     40  0.006677
+30256  rx_omeprazole (PRILOSEC) 40 mg delayed release...     40  0.006192
+30199                    rx_CYCLOBENZAPRINE 10 MG TABLET     40  0.005123
+
+
+                                           feature factor    weight
+30817                   Other hypothyroidism (E03)     41  0.026917
+30575           Hypothyroidism, unspecified (E039)     41  0.026917
+30933              rx_LEVOTHYROXINE 100 MCG TABLET     41  0.005054
+30926               rx_LEVOTHYROXINE 50 MCG TABLET     41  0.003237
+30865  rx_levothyroxine (SYNTHROID) 125 mcg tablet     41  0.002667
+
+
+                                                 feature factor    weight
+31115                 Disorders of lacrimal system (H04)     42  0.061298
+31081  Dry eye syndrome of bilateral lacrimal glands ...     42  0.045106
+31652                   rx_LATANOPROST 0.005 % EYE DROPS     42  0.021035
+31255  Dry eye syndrome of unspecified lacrimal gland...     42  0.017756
+31715   rx_PREDNISOLONE ACETATE 1 % EYE DROPS,SUSPENSION     42  0.015428
+
+
+                                                 feature factor    weight
+31818  Osteoporosis without current pathological frac...     43  0.018994
+32077  Age-related osteoporosis without current patho...     43  0.018994
+32442              rx_alendronate (FOSAMAX) 70 mg tablet     43  0.005042
+31827  Malignant neoplasm of unspecified site of unsp...     43  0.003724
+31895                 Malignant neoplasm of breast (C50)     43  0.003724
+
+
+                                                 feature factor    weight
+32531             Gastro-esophageal reflux disease (K21)     44  0.063938
+32646  Gastro-esophageal reflux disease without esoph...     44  0.062888
+32740                    Abdominal and pelvic pain (R10)     44  0.008103
+33212  rx_omeprazole (PRILOSEC) 40 mg delayed release...     44  0.005924
+32944  Benign neoplasm of other and ill-defined parts...     44  0.005633
+
+
+                                                 feature factor    weight
+33848        rx_OMEPRAZOLE 20 MG CAPSULE,DELAYED RELEASE     45  0.065929
+33956                rx_simvastatin (ZOCOR) 20 mg tablet     45  0.002074
+33899                        rx_SIMVASTATIN 40 MG TABLET     45  0.001744
+33826                           rx_TRAMADOL 50 MG TABLET     45  0.001661
+33892  rx_aspirin, buffered (BUFFERIN LOW DOSE) 81 mg...     45  0.001509
+
+
+                                                 feature factor    weight
+34477  Skin changes due to chronic exposure to nonion...     46  0.017388
+34005                           Actinic keratosis (L570)     46  0.012664
+34100                         Seborrheic keratosis (L82)     46  0.011275
+34516  Other disorders of skin and subcutaneous tissu...     46  0.011091
+34191  Other skin changes due to chronic exposure to ...     46  0.009672
+
+
+                                                 feature factor    weight
+34819                                    Dorsalgia (M54)     47  0.025243
+34904                               Low back pain (M545)     47  0.014758
+34916  Other joint disorder, not elsewhere classified...     47  0.011782
+34913               Pain, not elsewhere classified (G89)     47  0.011123
+35039                         Other chronic pain (G8929)     47  0.009736
+
+
+                                          feature factor    weight
+36209         rx_amLODIPine (NORVASC) 5 mg tablet     48  0.077980
+36131          rx_losartan (COZAAR) 100 mg tablet     48  0.011439
+36143                    rx_LOSARTAN 50 MG TABLET     48  0.007464
+36197  rx_DOCOSAHEXANOIC ACID/EPA (FISH OIL ORAL)     48  0.003557
+36043                    rx_TRAMADOL 50 MG TABLET     48  0.003442
+
+
+                                                 feature factor    weight
+36426                 Chronic kidney disease (CKD) (N18)     49  0.010724
+36392  Other disorders of kidney and ureter, not else...     49  0.009565
+36720  Chronic kidney disease, stage 3 (moderate) (N183)     49  0.008162
+36403  Disorder of kidney and ureter, unspecified (N289)     49  0.007264
+36708         Chronic kidney disease, unspecified (N189)     49  0.004309
+
+

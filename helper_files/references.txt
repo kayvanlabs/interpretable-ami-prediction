@@ -1,0 +1,3 @@
+Thanks to the following sources for providing useful and accessible data:
+icd 9 to 10 conversion file from https://github.com/bhanratt/ICD9CMtoICD10CM
+HFRS scores from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946808/ and https://github.com/CogStack/risk-score-builder/blob/master/input_files/hfrs_definition.csv

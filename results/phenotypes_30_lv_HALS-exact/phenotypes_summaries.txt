@@ -1,0 +1,240 @@
+                                      feature factor    weight
+145     Absolute Basophil Count_(-0.001, 0.1]      0  0.027648
+227  Absolute Early Gran Count_(-0.001, 13.7]      0  0.027262
+21                      Sodium_(138.0, 140.0]      0  0.015062
+94    Absolute Eosinophil Count_(-0.001, 0.1]      0  0.014988
+141                      Potassium_(4.0, 4.3]      0  0.013475
+
+
+                                      feature factor    weight
+465     Absolute Basophil Count_(-0.001, 0.1]      1  0.017924
+547  Absolute Early Gran Count_(-0.001, 13.7]      1  0.017813
+414   Absolute Eosinophil Count_(-0.001, 0.1]      1  0.009685
+461                      Potassium_(4.0, 4.3]      1  0.008162
+396                   Basophils_(-0.001, 0.3]      1  0.007572
+
+
+                        feature factor    weight
+811          BMI_(34.4, 191.49]      2  0.065099
+940  WEIGHT_KG_(103.01, 510.02]      2  0.060212
+958       BP_SYS_(135.0, 146.0]      2  0.012657
+815         BP_DIA_(75.0, 82.0]      2  0.012509
+959       BP_SYS_(146.0, 414.0]      2  0.011863
+
+
+                                       feature factor    weight
+1187  Absolute Early Gran Count_(-0.001, 13.7]      3  0.026726
+1105     Absolute Basophil Count_(-0.001, 0.1]      3  0.026722
+1054   Absolute Eosinophil Count_(-0.001, 0.1]      3  0.014628
+1036                   Basophils_(-0.001, 0.3]      3  0.009093
+1174      Immature Granulocyte %_(-0.001, 0.2]      3  0.009006
+
+
+                         feature factor    weight
+1458  HEIGHT_CM_(160.02, 167.64]      4  0.123726
+1452       BP_DIA_(-0.001, 63.0]      4  0.029325
+1595      BP_SYS_(70.999, 116.0]      4  0.027836
+1453         BP_DIA_(63.0, 70.0]      4  0.019420
+1596       BP_SYS_(116.0, 126.0]      4  0.014571
+
+
+                                                feature factor    weight
+1819                Mean Corpuscular Hgb_(13.999, 28.6]      5  0.070562
+1808             Mean Corpuscular Volume_(54.299, 86.0]      5  0.060448
+1871  Mean Corpuscular Hgb Conc._(25.698999999999998...      5  0.043504
+1832           Red Cell Distribution Width_(14.6, 31.3]      5  0.036558
+1650                  Red Blood Cell Count_(4.99, 7.46]      5  0.020076
+
+
+                        feature factor    weight
+2219  WEIGHT_KG_(89.81, 103.01]      6  0.064129
+2090          BMI_(30.13, 34.4]      6  0.059407
+2238      BP_SYS_(135.0, 146.0]      6  0.013402
+2095        BP_DIA_(75.0, 82.0]      6  0.013162
+2096       BP_DIA_(82.0, 155.0]      6  0.012331
+
+
+                      feature factor    weight
+2261    Sodium_(138.0, 140.0]      7  0.024649
+2257  Chloride_(104.0, 106.0]      7  0.023424
+2381     Potassium_(4.0, 4.3]      7  0.022010
+2491         Co2_(26.0, 28.0]      7  0.021712
+2400       Calcium_(9.6, 9.9]      7  0.018270
+
+
+                         feature factor    weight
+2577     Chloride_(104.0, 106.0]      8  0.007979
+2581       Sodium_(138.0, 140.0]      8  0.007451
+2701        Potassium_(4.0, 4.3]      8  0.007320
+2795  Urea Nitrogen_(15.0, 18.0]      8  0.006470
+2618       Glucose_(95.0, 104.0]      8  0.005851
+
+
+                        feature factor    weight
+3177  WEIGHT_KG_(67.696, 78.93]      9  0.033689
+3048        BMI_(24.33, 27.173]      9  0.026193
+3059  HEIGHT_CM_(167.64, 173.4]      9  0.008403
+2999         PULSE_(64.0, 71.0]      9  0.004894
+3197      BP_SYS_(126.0, 135.0]      9  0.004788
+
+
+                                       feature factor    weight
+3345     Absolute Basophil Count_(-0.001, 0.1]     10  0.022559
+3427  Absolute Early Gran Count_(-0.001, 13.7]     10  0.022426
+3294   Absolute Eosinophil Count_(-0.001, 0.1]     10  0.012040
+3414      Immature Granulocyte %_(-0.001, 0.2]     10  0.008269
+3221                     Sodium_(138.0, 140.0]     10  0.007609
+
+
+                         feature factor    weight
+3701   HEIGHT_CM_(180.34, 266.7]     11  0.083595
+3638         PULSE_(2.999, 64.0]     11  0.024151
+3820  WEIGHT_KG_(103.01, 510.02]     11  0.019812
+3689         BMI_(27.173, 30.13]     11  0.013222
+3693         BP_DIA_(63.0, 70.0]     11  0.012285
+
+
+                                      feature factor    weight
+3869                  Hemoglobin_(15.1, 22.4]     12  0.052894
+4130                  Hematocrit_(44.4, 66.6]     12  0.052771
+3890        Red Blood Cell Count_(4.99, 7.46]     12  0.040475
+4115  Mean Corpuscular Hgb Conc._(34.5, 39.5]     12  0.019731
+3912            Platelet Count_(176.0, 213.0]     12  0.011806
+
+
+                      feature factor    weight
+4301     Potassium_(4.0, 4.3]     13  0.003258
+4181    Sodium_(138.0, 140.0]     13  0.003161
+4177  Chloride_(104.0, 106.0]     13  0.003096
+4411         Co2_(26.0, 28.0]     13  0.002626
+4320       Calcium_(9.6, 9.9]     13  0.002408
+
+
+                                              feature factor    weight
+4766                        Hematocrit_(18.099, 36.5]     14  0.045124
+4505                         Hemoglobin_(5.699, 12.1]     14  0.043646
+4526  Red Blood Cell Count_(1.8690000000000002, 4.02]     14  0.040888
+4781                             Albumin_(1.499, 4.0]     14  0.013856
+4712         Red Cell Distribution Width_(14.6, 31.3]     14  0.013368
+
+
+                                       feature factor    weight
+4945     Absolute Basophil Count_(-0.001, 0.1]     15  0.144851
+5027  Absolute Early Gran Count_(-0.001, 13.7]     15  0.141767
+4894   Absolute Eosinophil Count_(-0.001, 0.1]     15  0.066459
+5014      Immature Granulocyte %_(-0.001, 0.2]     15  0.057094
+4895      Absolute Eosinophil Count_(0.1, 0.2]     15  0.045419
+
+
+                          feature factor    weight
+5371             Co2_(26.0, 28.0]     16  0.000917
+5137      Chloride_(104.0, 106.0]     16  0.000844
+5261         Potassium_(4.0, 4.3]     16  0.000806
+5141        Sodium_(138.0, 140.0]     16  0.000658
+5353  Urea Nitrogen_(4.999, 13.0]     16  0.000622
+
+
+                         feature factor    weight
+5617  HEIGHT_CM_(64.999, 160.02]     17  0.063464
+5612       BP_DIA_(-0.001, 63.0]     17  0.018718
+5736   WEIGHT_KG_(4.579, 67.696]     17  0.011511
+5755      BP_SYS_(70.999, 116.0]     17  0.011237
+5613         BP_DIA_(63.0, 70.0]     17  0.010205
+
+
+                                       feature factor    weight
+5905     Absolute Basophil Count_(-0.001, 0.1]     18  0.001653
+5987  Absolute Early Gran Count_(-0.001, 13.7]     18  0.001652
+5901                      Potassium_(4.0, 4.3]     18  0.000909
+5777                   Chloride_(104.0, 106.0]     18  0.000883
+5993               Urea Nitrogen_(4.999, 13.0]     18  0.000878
+
+
+                                       feature factor    weight
+6225     Absolute Basophil Count_(-0.001, 0.1]     19  0.147001
+6307  Absolute Early Gran Count_(-0.001, 13.7]     19  0.145846
+6174   Absolute Eosinophil Count_(-0.001, 0.1]     19  0.079056
+6330                         Co2_(9.999, 26.0]     19  0.050207
+6091               Bilirubin, Total_(0.3, 0.5]     19  0.043904
+
+
+                        feature factor    weight
+6698   WEIGHT_KG_(78.93, 89.81]     20  0.037769
+6569        BMI_(27.173, 30.13]     20  0.027381
+6575        BP_DIA_(75.0, 82.0]     20  0.007980
+6579  HEIGHT_CM_(167.64, 173.4]     20  0.007347
+6718      BP_SYS_(135.0, 146.0]     20  0.006520
+
+
+                                      feature factor    weight
+6958      White Blood Cell Count_(0.099, 5.3]     21  0.031980
+6932    Mean Corpuscular Volume_(94.4, 120.3]     21  0.029966
+6791            Platelet Count_(0.999, 176.0]     21  0.029007
+6943        Mean Corpuscular Hgb_(31.9, 43.0]     21  0.028225
+7030  Absolute Neutrophil Count_(-0.001, 2.9]     21  0.020623
+
+
+                                              feature factor    weight
+7065                         Hemoglobin_(5.699, 12.1]     22  0.055880
+7326                        Hematocrit_(18.099, 36.5]     22  0.054692
+7086  Red Blood Cell Count_(1.8690000000000002, 4.02]     22  0.051719
+7197                Calcium_(4.7989999999999995, 9.2]     22  0.051234
+7341                             Albumin_(1.499, 4.0]     22  0.050069
+
+
+                        feature factor    weight
+7527         BMI_(1.489, 24.33]     23  0.081932
+7656  WEIGHT_KG_(4.579, 67.696]     23  0.078188
+7675     BP_SYS_(70.999, 116.0]     23  0.014394
+7480         PULSE_(71.0, 78.0]     23  0.012083
+7481         PULSE_(78.0, 86.0]     23  0.010484
+
+
+                                       feature factor    weight
+7825     Absolute Basophil Count_(-0.001, 0.1]     24  0.001727
+7907  Absolute Early Gran Count_(-0.001, 13.7]     24  0.001704
+7774   Absolute Eosinophil Count_(-0.001, 0.1]     24  0.000856
+7894      Immature Granulocyte %_(-0.001, 0.2]     24  0.000722
+7701                     Sodium_(138.0, 140.0]     24  0.000683
+
+
+                                       feature factor    weight
+8145     Absolute Basophil Count_(-0.001, 0.1]     25  0.002018
+8227  Absolute Early Gran Count_(-0.001, 13.7]     25  0.001992
+8094   Absolute Eosinophil Count_(-0.001, 0.1]     25  0.001050
+8214      Immature Granulocyte %_(-0.001, 0.2]     25  0.000920
+8021                     Sodium_(138.0, 140.0]     25  0.000881
+
+
+                          feature factor    weight
+8335     Chloride_(69.999, 103.0]     26  0.005065
+8380       Glucose_(127.0, 650.0]     26  0.004513
+8340      Sodium_(106.999, 138.0]     26  0.003951
+8452  Hemoglobin A1C_(7.2, 167.0]     26  0.001812
+8427           Ast_(34.0, 2142.0]     26  0.001145
+
+
+                        feature factor    weight
+8820  HEIGHT_CM_(173.4, 180.34]     27  0.067024
+8758        PULSE_(2.999, 64.0]     27  0.015369
+8955     BP_SYS_(70.999, 116.0]     27  0.010500
+8812      BP_DIA_(-0.001, 63.0]     27  0.008611
+8813        BP_DIA_(63.0, 70.0]     27  0.006673
+
+
+                          feature factor    weight
+9224    Creatinine_(1.122, 21.48]     28  0.190849
+9197  Urea Nitrogen_(23.0, 139.0]     28  0.163116
+9210            Co2_(9.999, 26.0]     28  0.097998
+8979      Chloride_(107.0, 122.0]     28  0.066253
+9104         Potassium_(4.7, 9.8]     28  0.055017
+
+
+                                       feature factor    weight
+9425     Absolute Basophil Count_(-0.001, 0.1]     29  0.130212
+9507  Absolute Early Gran Count_(-0.001, 13.7]     29  0.129631
+9374   Absolute Eosinophil Count_(-0.001, 0.1]     29  0.067113
+9494      Immature Granulocyte %_(-0.001, 0.2]     29  0.044720
+9356                   Basophils_(-0.001, 0.3]     29  0.039442
+
+
