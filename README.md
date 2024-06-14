@@ -704,3 +704,424 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Vitamin D deficiency, unspecified (E559)                                       |   0.0024 |
 | Vitamin D deficiency (E55)                                                     |   0.0024 |
 | Other disorders involving the immune mechanism, not elsewhere classified (D89) |   0.0021 |
+
+## Lab/vital Phenotypes
+
+| Phenotype 0                              |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0276 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0273 |
+| Sodium_(138.0, 140.0]                    |   0.0151 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.015  |
+| Potassium_(4.0, 4.3]                     |   0.0135 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0127 |
+| Co2_(26.0, 28.0]                         |   0.0127 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0122 |
+| Bilirubin, Total_(0.3, 0.5]              |   0.0115 |
+| Chloride_(69.999, 103.0]                 |   0.0113 |
+
+
+| Phenotype 1                              |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0179 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0178 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0097 |
+| Potassium_(4.0, 4.3]                     |   0.0082 |
+| Basophils_(-0.001, 0.3]                  |   0.0076 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0074 |
+| Chloride_(104.0, 106.0]                  |   0.0074 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0071 |
+| Bilirubin, Total_(0.3, 0.5]              |   0.0071 |
+| Sodium_(138.0, 140.0]                    |   0.0071 |
+
+
+| Phenotype 2                |   Weight |
+|:---------------------------|---------:|
+| BMI_(34.4, 191.49]         |   0.0651 |
+| WEIGHT_KG_(103.01, 510.02] |   0.0602 |
+| BP_SYS_(135.0, 146.0]      |   0.0127 |
+| BP_DIA_(75.0, 82.0]        |   0.0125 |
+| BP_SYS_(146.0, 414.0]      |   0.0119 |
+| BP_DIA_(82.0, 155.0]       |   0.0116 |
+| PULSE_(78.0, 86.0]         |   0.0102 |
+| PULSE_(86.0, 150.0]        |   0.0101 |
+| BP_SYS_(126.0, 135.0]      |   0.0097 |
+| PULSE_(71.0, 78.0]         |   0.0096 |
+
+
+| Phenotype 3                              |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0267 |
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0267 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0146 |
+| Basophils_(-0.001, 0.3]                  |   0.0091 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.009  |
+| Eosinophils_(-0.001, 0.9]                |   0.007  |
+| Absolute Eosinophil Count_(0.1, 0.2]     |   0.0068 |
+| Absolute Lymphocyte Count_(1.1, 1.5]     |   0.0067 |
+| Lymphocyte % (Coulter)_(-0.001, 15.9]    |   0.0064 |
+| Monocyte % (Coulter)_(-0.001, 6.4]       |   0.0063 |
+
+
+| Phenotype 4                |   Weight |
+|:---------------------------|---------:|
+| HEIGHT_CM_(160.02, 167.64] |   0.1237 |
+| BP_DIA_(-0.001, 63.0]      |   0.0293 |
+| BP_SYS_(70.999, 116.0]     |   0.0278 |
+| BP_DIA_(63.0, 70.0]        |   0.0194 |
+| BP_SYS_(116.0, 126.0]      |   0.0146 |
+| PULSE_(2.999, 64.0]        |   0.0125 |
+| Hemoglobin_(12.1, 13.2]    |   0.0056 |
+| Creatinine_(0.169, 0.73]   |   0.0055 |
+| PULSE_(64.0, 71.0]         |   0.0049 |
+| Hematocrit_(36.5, 39.6]    |   0.0043 |
+
+
+| Phenotype 5                                           |   Weight |
+|:------------------------------------------------------|---------:|
+| Mean Corpuscular Hgb_(13.999, 28.6]                   |   0.0706 |
+| Mean Corpuscular Volume_(54.299, 86.0]                |   0.0604 |
+| Mean Corpuscular Hgb Conc._(25.698999999999998, 32.4] |   0.0435 |
+| Red Cell Distribution Width_(14.6, 31.3]              |   0.0366 |
+| Red Blood Cell Count_(4.99, 7.46]                     |   0.0201 |
+| Platelet Count_(290.0, 856.0]                         |   0.0176 |
+| White Blood Cell Count_(9.3, 374.3]                   |   0.0149 |
+| Hemoglobin_(5.699, 12.1]                              |   0.0112 |
+| Red Cell Distribution Width_(13.7, 14.6]              |   0.0099 |
+| Hematocrit_(36.5, 39.6]                               |   0.0097 |
+
+
+| Phenotype 6               |   Weight |
+|:--------------------------|---------:|
+| WEIGHT_KG_(89.81, 103.01] |   0.0641 |
+| BMI_(30.13, 34.4]         |   0.0594 |
+| BP_SYS_(135.0, 146.0]     |   0.0134 |
+| BP_DIA_(75.0, 82.0]       |   0.0132 |
+| BP_DIA_(82.0, 155.0]      |   0.0123 |
+| BP_SYS_(126.0, 135.0]     |   0.012  |
+| PULSE_(71.0, 78.0]        |   0.0104 |
+| BP_SYS_(146.0, 414.0]     |   0.0099 |
+| PULSE_(78.0, 86.0]        |   0.0095 |
+| PULSE_(86.0, 150.0]       |   0.0086 |
+
+
+| Phenotype 7             |   Weight |
+|:------------------------|---------:|
+| Sodium_(138.0, 140.0]   |   0.0246 |
+| Chloride_(104.0, 106.0] |   0.0234 |
+| Potassium_(4.0, 4.3]    |   0.022  |
+| Co2_(26.0, 28.0]        |   0.0217 |
+| Calcium_(9.6, 9.9]      |   0.0183 |
+| BP_DIA_(75.0, 82.0]     |   0.0179 |
+| BP_SYS_(146.0, 414.0]   |   0.0176 |
+| Glucose_(36.999, 87.0]  |   0.0175 |
+| PULSE_(71.0, 78.0]      |   0.0163 |
+| BP_SYS_(135.0, 146.0]   |   0.0163 |
+
+
+| Phenotype 8                 |   Weight |
+|:----------------------------|---------:|
+| Chloride_(104.0, 106.0]     |   0.008  |
+| Sodium_(138.0, 140.0]       |   0.0075 |
+| Potassium_(4.0, 4.3]        |   0.0073 |
+| Urea Nitrogen_(15.0, 18.0]  |   0.0065 |
+| Glucose_(95.0, 104.0]       |   0.0059 |
+| Urea Nitrogen_(18.0, 23.0]  |   0.0058 |
+| Calcium_(9.4, 9.6]          |   0.0055 |
+| Creatinine_(0.73, 0.84]     |   0.0053 |
+| Calcium_(9.6, 9.9]          |   0.0053 |
+| Bilirubin, Total_(0.3, 0.5] |   0.0052 |
+
+
+| Phenotype 9               |   Weight |
+|:--------------------------|---------:|
+| WEIGHT_KG_(67.696, 78.93] |   0.0337 |
+| BMI_(24.33, 27.173]       |   0.0262 |
+| HEIGHT_CM_(167.64, 173.4] |   0.0084 |
+| PULSE_(64.0, 71.0]        |   0.0049 |
+| BP_SYS_(126.0, 135.0]     |   0.0048 |
+| PULSE_(2.999, 64.0]       |   0.0044 |
+| BP_DIA_(75.0, 82.0]       |   0.0042 |
+| BP_SYS_(135.0, 146.0]     |   0.0042 |
+| PULSE_(71.0, 78.0]        |   0.004  |
+| BP_DIA_(70.0, 75.0]       |   0.004  |
+
+
+| Phenotype 10                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0226 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0224 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.012  |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0083 |
+| Sodium_(138.0, 140.0]                    |   0.0076 |
+| Potassium_(4.0, 4.3]                     |   0.0076 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0073 |
+| Red Cell Distribution Width_(12.7, 13.2] |   0.0071 |
+| Basophils_(-0.001, 0.3]                  |   0.0071 |
+| Co2_(9.999, 26.0]                        |   0.0066 |
+
+
+| Phenotype 11               |   Weight |
+|:---------------------------|---------:|
+| HEIGHT_CM_(180.34, 266.7]  |   0.0836 |
+| PULSE_(2.999, 64.0]        |   0.0242 |
+| WEIGHT_KG_(103.01, 510.02] |   0.0198 |
+| BMI_(27.173, 30.13]        |   0.0132 |
+| BP_DIA_(63.0, 70.0]        |   0.0123 |
+| BP_SYS_(116.0, 126.0]      |   0.0114 |
+| BP_SYS_(70.999, 116.0]     |   0.0112 |
+| BP_DIA_(-0.001, 63.0]      |   0.0096 |
+| PULSE_(64.0, 71.0]         |   0.0066 |
+| BP_SYS_(126.0, 135.0]      |   0.0061 |
+
+
+| Phenotype 12                               |   Weight |
+|:-------------------------------------------|---------:|
+| Hemoglobin_(15.1, 22.4]                    |   0.0529 |
+| Hematocrit_(44.4, 66.6]                    |   0.0528 |
+| Red Blood Cell Count_(4.99, 7.46]          |   0.0405 |
+| Mean Corpuscular Hgb Conc._(34.5, 39.5]    |   0.0197 |
+| Platelet Count_(176.0, 213.0]              |   0.0118 |
+| Mean Corpuscular Hgb_(31.9, 43.0]          |   0.0104 |
+| Red Blood Cell Count_(4.67, 4.99]          |   0.0094 |
+| Mean Corpuscular Hgb_(30.8, 31.9]          |   0.0086 |
+| Platelet Count_(0.999, 176.0]              |   0.0079 |
+| Red Cell Distribution Width_(10.699, 12.7] |   0.0071 |
+
+
+| Phenotype 13                |   Weight |
+|:----------------------------|---------:|
+| Potassium_(4.0, 4.3]        |   0.0033 |
+| Sodium_(138.0, 140.0]       |   0.0032 |
+| Chloride_(104.0, 106.0]     |   0.0031 |
+| Co2_(26.0, 28.0]            |   0.0026 |
+| Calcium_(9.6, 9.9]          |   0.0024 |
+| Creatinine_(0.84, 0.96]     |   0.0024 |
+| Glucose_(87.0, 95.0]        |   0.0024 |
+| Bilirubin, Total_(0.3, 0.5] |   0.0023 |
+| Urea Nitrogen_(15.0, 18.0]  |   0.0023 |
+| Potassium_(4.4, 4.7]        |   0.0021 |
+
+
+| Phenotype 14                                    |   Weight |
+|:------------------------------------------------|---------:|
+| Hematocrit_(18.099, 36.5]                       |   0.0451 |
+| Hemoglobin_(5.699, 12.1]                        |   0.0436 |
+| Red Blood Cell Count_(1.8690000000000002, 4.02] |   0.0409 |
+| Albumin_(1.499, 4.0]                            |   0.0139 |
+| Red Cell Distribution Width_(14.6, 31.3]        |   0.0134 |
+| Calcium_(4.7989999999999995, 9.2]               |   0.0125 |
+| Alt_(0.999, 17.0]                               |   0.0112 |
+| Absolute Basophils_(-0.001, 0.07]               |   0.0092 |
+| Mean Platelet Volume_(4.7989999999999995, 9.3]  |   0.0087 |
+| Bilirubin, Total_(0.099, 0.3]                   |   0.0079 |
+
+
+| Phenotype 15                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.1449 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.1418 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0665 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0571 |
+| Absolute Eosinophil Count_(0.1, 0.2]     |   0.0454 |
+| Basophils_(0.4, 0.6]                     |   0.0392 |
+| Immature Granulocyte %_(0.2, 0.3]        |   0.0387 |
+| Absolute Lymphocyte Count_(1.8, 2.4]     |   0.0384 |
+| Lymphocyte % (Coulter)_(22.2, 27.4]      |   0.0364 |
+| Absolute Neutrophil Count_(4.7, 6.4]     |   0.0363 |
+
+
+| Phenotype 16                |   Weight |
+|:----------------------------|---------:|
+| Co2_(26.0, 28.0]            |   0.0009 |
+| Chloride_(104.0, 106.0]     |   0.0008 |
+| Potassium_(4.0, 4.3]        |   0.0008 |
+| Sodium_(138.0, 140.0]       |   0.0007 |
+| Urea Nitrogen_(4.999, 13.0] |   0.0006 |
+| Albumin_(4.2, 4.4]          |   0.0006 |
+| Glucose_(87.0, 95.0]        |   0.0006 |
+| Urea Nitrogen_(15.0, 18.0]  |   0.0006 |
+| Potassium_(4.4, 4.7]        |   0.0006 |
+| Bilirubin, Total_(0.3, 0.5] |   0.0006 |
+
+
+| Phenotype 17               |   Weight |
+|:---------------------------|---------:|
+| HEIGHT_CM_(64.999, 160.02] |   0.0635 |
+| BP_DIA_(-0.001, 63.0]      |   0.0187 |
+| WEIGHT_KG_(4.579, 67.696]  |   0.0115 |
+| BP_SYS_(70.999, 116.0]     |   0.0112 |
+| BP_DIA_(63.0, 70.0]        |   0.0102 |
+| BP_SYS_(116.0, 126.0]      |   0.0074 |
+| PULSE_(2.999, 64.0]        |   0.006  |
+| Creatinine_(0.169, 0.73]   |   0.006  |
+| BMI_(34.4, 191.49]         |   0.0034 |
+| PULSE_(78.0, 86.0]         |   0.0031 |
+
+
+| Phenotype 18                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0017 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0017 |
+| Potassium_(4.0, 4.3]                     |   0.0009 |
+| Chloride_(104.0, 106.0]                  |   0.0009 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0009 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0009 |
+| Co2_(26.0, 28.0]                         |   0.0008 |
+| Creatinine_(0.169, 0.73]                 |   0.0008 |
+| Sodium_(138.0, 140.0]                    |   0.0008 |
+| Bilirubin, Total_(0.3, 0.5]              |   0.0007 |
+
+
+| Phenotype 19                               |   Weight |
+|:-------------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]      |   0.147  |
+| Absolute Early Gran Count_(-0.001, 13.7]   |   0.1458 |
+| Absolute Eosinophil Count_(-0.001, 0.1]    |   0.0791 |
+| Co2_(9.999, 26.0]                          |   0.0502 |
+| Bilirubin, Total_(0.3, 0.5]                |   0.0439 |
+| Immature Granulocyte %_(-0.001, 0.2]       |   0.0436 |
+| Basophils_(-0.001, 0.3]                    |   0.0429 |
+| Sodium_(138.0, 140.0]                      |   0.0422 |
+| Red Cell Distribution Width_(12.7, 13.2]   |   0.0414 |
+| Red Cell Distribution Width_(10.699, 12.7] |   0.0411 |
+
+
+| Phenotype 20              |   Weight |
+|:--------------------------|---------:|
+| WEIGHT_KG_(78.93, 89.81]  |   0.0378 |
+| BMI_(27.173, 30.13]       |   0.0274 |
+| BP_DIA_(75.0, 82.0]       |   0.008  |
+| HEIGHT_CM_(167.64, 173.4] |   0.0073 |
+| BP_SYS_(135.0, 146.0]     |   0.0065 |
+| BP_DIA_(82.0, 155.0]      |   0.0062 |
+| BP_SYS_(146.0, 414.0]     |   0.006  |
+| PULSE_(71.0, 78.0]        |   0.0057 |
+| PULSE_(78.0, 86.0]        |   0.0049 |
+| BP_SYS_(126.0, 135.0]     |   0.0049 |
+
+
+| Phenotype 21                            |   Weight |
+|:----------------------------------------|---------:|
+| White Blood Cell Count_(0.099, 5.3]     |   0.032  |
+| Mean Corpuscular Volume_(94.4, 120.3]   |   0.03   |
+| Platelet Count_(0.999, 176.0]           |   0.029  |
+| Mean Corpuscular Hgb_(31.9, 43.0]       |   0.0282 |
+| Absolute Neutrophil Count_(-0.001, 2.9] |   0.0206 |
+| Monocyte % (Coulter)_(10.9, 59.0]       |   0.0116 |
+| Segmented Neutrophils._(-0.001, 52.4]   |   0.0114 |
+| Hemoglobin_(12.1, 13.2]                 |   0.0105 |
+| Absolute Monocyte Count_(-0.001, 0.4]   |   0.0103 |
+| Absolute Lymphocyte Count_(-0.001, 1.1] |   0.0101 |
+
+
+| Phenotype 22                                    |   Weight |
+|:------------------------------------------------|---------:|
+| Hemoglobin_(5.699, 12.1]                        |   0.0559 |
+| Hematocrit_(18.099, 36.5]                       |   0.0547 |
+| Red Blood Cell Count_(1.8690000000000002, 4.02] |   0.0517 |
+| Calcium_(4.7989999999999995, 9.2]               |   0.0512 |
+| Albumin_(1.499, 4.0]                            |   0.0501 |
+| Lymphocyte % (Coulter)_(-0.001, 15.9]           |   0.0436 |
+| Protein_(3.1990000000000003, 6.5]               |   0.041  |
+| Red Cell Distribution Width_(14.6, 31.3]        |   0.0398 |
+| Segmented Neutrophils._(71.9, 95.6]             |   0.0371 |
+| Absolute Lymphocyte Count_(-0.001, 1.1]         |   0.037  |
+
+
+| Phenotype 23              |   Weight |
+|:--------------------------|---------:|
+| BMI_(1.489, 24.33]        |   0.0819 |
+| WEIGHT_KG_(4.579, 67.696] |   0.0782 |
+| BP_SYS_(70.999, 116.0]    |   0.0144 |
+| PULSE_(71.0, 78.0]        |   0.0121 |
+| PULSE_(78.0, 86.0]        |   0.0105 |
+| BP_DIA_(75.0, 82.0]       |   0.0101 |
+| BP_SYS_(146.0, 414.0]     |   0.0098 |
+| PULSE_(86.0, 150.0]       |   0.0092 |
+| BP_DIA_(70.0, 75.0]       |   0.0089 |
+| TEMP_(73.999, 97.5]       |   0.0087 |
+
+
+| Phenotype 24                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.0017 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.0017 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0009 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0007 |
+| Sodium_(138.0, 140.0]                    |   0.0007 |
+| Bilirubin, Total_(0.3, 0.5]              |   0.0006 |
+| Potassium_(4.0, 4.3]                     |   0.0006 |
+| Chloride_(104.0, 106.0]                  |   0.0006 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0006 |
+| Co2_(26.0, 28.0]                         |   0.0006 |
+
+
+| Phenotype 25                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.002  |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.002  |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.001  |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0009 |
+| Sodium_(138.0, 140.0]                    |   0.0009 |
+| Bilirubin, Total_(0.3, 0.5]              |   0.0009 |
+| Basophils_(-0.001, 0.3]                  |   0.0008 |
+| Urea Nitrogen_(4.999, 13.0]              |   0.0008 |
+| Potassium_(4.0, 4.3]                     |   0.0008 |
+| Co2_(26.0, 28.0]                         |   0.0008 |
+
+
+| Phenotype 26                |   Weight |
+|:----------------------------|---------:|
+| Chloride_(69.999, 103.0]    |   0.0051 |
+| Glucose_(127.0, 650.0]      |   0.0045 |
+| Sodium_(106.999, 138.0]     |   0.004  |
+| Hemoglobin A1C_(7.2, 167.0] |   0.0018 |
+| Ast_(34.0, 2142.0]          |   0.0011 |
+| Poc Hgb A1C_(8.7, 14.0]     |   0.001  |
+| Poc Hgb A1C_(7.5, 8.7]      |   0.0009 |
+| PULSE_(86.0, 150.0]         |   0.0009 |
+| Calcium_(9.9, 15.2]         |   0.0009 |
+| Urea Nitrogen_(4.999, 13.0] |   0.0008 |
+
+
+| Phenotype 27              |   Weight |
+|:--------------------------|---------:|
+| HEIGHT_CM_(173.4, 180.34] |   0.067  |
+| PULSE_(2.999, 64.0]       |   0.0154 |
+| BP_SYS_(70.999, 116.0]    |   0.0105 |
+| BP_DIA_(-0.001, 63.0]     |   0.0086 |
+| BP_DIA_(63.0, 70.0]       |   0.0067 |
+| BP_SYS_(116.0, 126.0]     |   0.0065 |
+| BMI_(24.33, 27.173]       |   0.0049 |
+| TEMP_(97.5, 97.9]         |   0.0022 |
+| PULSE_(64.0, 71.0]        |   0.0021 |
+| Creatinine_(0.84, 0.96]   |   0.0018 |
+
+
+| Phenotype 28                      |   Weight |
+|:----------------------------------|---------:|
+| Creatinine_(1.122, 21.48]         |   0.1908 |
+| Urea Nitrogen_(23.0, 139.0]       |   0.1631 |
+| Co2_(9.999, 26.0]                 |   0.098  |
+| Chloride_(107.0, 122.0]           |   0.0663 |
+| Potassium_(4.7, 9.8]              |   0.055  |
+| Calcium_(4.7989999999999995, 9.2] |   0.0405 |
+| Albumin_(1.499, 4.0]              |   0.0355 |
+| BP_SYS_(146.0, 414.0]             |   0.0269 |
+| Sodium_(142.0, 150.0]             |   0.0247 |
+| Absolute Basophils_(-0.001, 0.07] |   0.0247 |
+
+
+| Phenotype 29                             |   Weight |
+|:-----------------------------------------|---------:|
+| Absolute Basophil Count_(-0.001, 0.1]    |   0.1302 |
+| Absolute Early Gran Count_(-0.001, 13.7] |   0.1296 |
+| Absolute Eosinophil Count_(-0.001, 0.1]  |   0.0671 |
+| Immature Granulocyte %_(-0.001, 0.2]     |   0.0447 |
+| Basophils_(-0.001, 0.3]                  |   0.0394 |
+| Absolute Eosinophil Count_(0.1, 0.2]     |   0.0375 |
+| Mean Platelet Volume_(9.3, 9.9]          |   0.031  |
+| Basophils_(0.4, 0.6]                     |   0.0302 |
+| Immature Granulocyte %_(0.2, 0.3]        |   0.0295 |
+| Absolute Lymphocyte Count_(1.8, 2.4]     |   0.0293 |
