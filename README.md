@@ -17,6 +17,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | spironolactone (ALDACTONE) 25 mg tablet                                                   | 0         | 0.0005 |
 | simvastatin (ZOCOR) 20 mg tablet                                                          | 0         | 0.0005 |
 | ibuprofen (MOTRIN) 800 mg tablet                                                          | 0         | 0.0005 |
+
+| Feature                                                                                   | Phenotype | Weight |
 | ----------------------------------------------------------------------------------------- | --------- | ------ |
 | Age-related cataract (H25)                                                                | 1         | 0.0184 |
 | Age-related nuclear cataract, bilateral (H2513)                                           | 1         | 0.0106 |
