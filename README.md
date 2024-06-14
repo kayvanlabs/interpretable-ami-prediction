@@ -4,6 +4,9 @@ Code and results repository for study to evaluate interpretable models' ability 
 ## Workflow
 ![workflow](workflow.png)
 
+## Feature Importance
+All feature importance values are found in `results/feature_importance.csv`
+
 ## Dx/Rx Phenotypes
 
 | Phenotype 0                                                  |   Weight |
