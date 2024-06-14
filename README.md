@@ -4,7 +4,7 @@ Code and results repository for study to evaluate interpretable models' ability 
 ## Workflow
 ![workflow](workflow.png)
 
-## Phenotypes
+## Dx/Rx Phenotypes
 
 | Phenotype 0                                                  |   Weight |
 |:-------------------------------------------------------------|---------:|
@@ -18,6 +18,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | spironolactone (ALDACTONE) 25 mg tablet                      |   0.0005 |
 | simvastatin (ZOCOR) 20 mg tablet                             |   0.0005 |
 | ibuprofen (MOTRIN) 800 mg tablet                             |   0.0005 |
+
+
 | Phenotype 1                                                |   Weight |
 |:-----------------------------------------------------------|---------:|
 | Age-related cataract (H25)                                 |   0.0184 |
@@ -30,6 +32,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Unspecified age-related cataract (H259)                    |   0.0014 |
 | Vitreous degeneration, right eye (H43811)                  |   0.0012 |
 | Age-related nuclear cataract, left eye (H2512)             |   0.0012 |
+
+
 | Phenotype 2                                                    |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Type 2 diabetes mellitus (E11)                                 |   0.0174 |
@@ -42,6 +46,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Essential (primary) hypertension (I10)                         |   0.0016 |
 | metFORMIN (GLUCOPHAGE XR) 500 mg 24 hr tablet                  |   0.0014 |
 | Type 2 diabetes mellitus with unspecified complications (E118) |   0.0014 |
+
+
 | Phenotype 3                                                               |   Weight |
 |:--------------------------------------------------------------------------|---------:|
 | Abdominal and pelvic pain (R10)                                           |   0.0185 |
@@ -54,6 +60,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Nausea (R110)                                                             |   0.005  |
 | Malaise and fatigue (R53)                                                 |   0.0049 |
 | Diarrhea, unspecified (R197)                                              |   0.0046 |
+
+
 | Phenotype 4                                         |   Weight |
 |:----------------------------------------------------|---------:|
 | FLUTICASONE 50 MCG/ACTUATION NASAL SPRAY,SUSPENSION |   0.031  |
@@ -66,6 +74,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | cholecalciferol (VITAMIN D3) 2,000 unit capsule     |   0.001  |
 | Other allergic rhinitis (J3089)                     |   0.001  |
 | FUROSEMIDE 20 mg tablet                             |   0.001  |
+
+
 | Phenotype 5                                                    |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Essential (primary) hypertension (I10)                         |   0.033  |
@@ -78,6 +88,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | ACETAMINOPHEN 325 mg tablet                                    |   0.0022 |
 | DOCUSATE SODIUM 100 mg CAPSULE                                 |   0.0022 |
 | Chronic obstructive pulmonary disease, unspecified (J449)      |   0.0022 |
+
+
 | Phenotype 6                                                  |   Weight |
 |:-------------------------------------------------------------|---------:|
 | ATORVASTATIN 40 mg tablet                                    |   0.0214 |
@@ -90,6 +102,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | METOPROLOL TARTRATE 25 mg tablet                             |   0.0009 |
 | ASPIRIN 325 mg tablet                                        |   0.0009 |
 | hydrochlorothiazide 12.5 mg tablet                           |   0.0008 |
+
+
 | Phenotype 7                                     |   Weight |
 |:------------------------------------------------|---------:|
 | Disorders of refraction and accommodation (H52) |   0.0121 |
@@ -102,6 +116,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Disorders of vitreous body (H43)                |   0.0029 |
 | Disorders of lacrimal system (H04)              |   0.0018 |
 | Glaucoma (H40)                                  |   0.0014 |
+
+
 | Phenotype 8                                                    |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Disorders of lipoprotein metabolism and other lipidemias (E78) |   0.027  |
@@ -114,6 +130,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Male erectile dysfunction, unspecified (N529)                  |   0.0013 |
 | Male erectile dysfunction (N52)                                |   0.0013 |
 | Pure hypercholesterolemia, unspecified (E7800)                 |   0.0013 |
+
+
 | Phenotype 9                                                            |   Weight |
 |:-----------------------------------------------------------------------|---------:|
 | Type 2 diabetes mellitus (E11)                                         |   0.1577 |
@@ -126,6 +144,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Type 2 diabetes mellitus with diabetic neuropathy, unspecified (E1140) |   0.0104 |
 | Type 2 diabetes mellitus with diabetic polyneuropathy (E1142)          |   0.0102 |
 | blood sugar diagnostic (GLUCOSE BLOOD) Strip                           |   0.01   |
+
+
 | Phenotype 10                                                |   Weight |
 |:------------------------------------------------------------|---------:|
 | Gastro-esophageal reflux disease (K21)                      |   0.018  |
@@ -138,6 +158,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Diaphragmatic hernia (K44)                                  |   0.0016 |
 | Dysphagia, unspecified (R1310)                              |   0.0015 |
 | Vasomotor and allergic rhinitis (J30)                       |   0.0014 |
+
+
 | Phenotype 11                                         |   Weight |
 |:-----------------------------------------------------|---------:|
 | Hypothyroidism, unspecified (E039)                   |   0.12   |
@@ -150,6 +172,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Malaise and fatigue (R53)                            |   0.0098 |
 | Other and unspecified osteoarthritis (M19)           |   0.0085 |
 | Unspecified osteoarthritis, unspecified site (M1990) |   0.0085 |
+
+
 | Phenotype 12                                                             |   Weight |
 |:-------------------------------------------------------------------------|---------:|
 | TAMSULOSIN ER 0.4 mg CAPSULE,EXTENDED RELEASE 24 HR                      |   0.0901 |
@@ -162,6 +186,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Polyuria (R35)                                                           |   0.0117 |
 | Retention of urine (R33)                                                 |   0.0112 |
 | Retention of urine, unspecified (R339)                                   |   0.0112 |
+
+
 | Phenotype 13                                        |   Weight |
 |:----------------------------------------------------|---------:|
 | HYDROCODONE 5 mg-ACETAMINOPHEN 325 mg tablet        |   0.1814 |
@@ -174,6 +200,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | ONDANSETRON 4 mg DISINTEGRATING tablet              |   0.0103 |
 | SULFAMETHOXAZOLE 800 mg-TRIMETHOPRIM 160 mg tablet  |   0.0059 |
 | polyethylene glycol 3350 (MIRALAX) 17 g/dose powder |   0.0058 |
+
+
 | Phenotype 14                                           |   Weight |
 |:-------------------------------------------------------|---------:|
 | Overweight and obesity (E66)                           |   0.0349 |
@@ -186,6 +214,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Obstructive sleep apnea (adult) (pediatric) (G4733)    |   0.003  |
 | Sleep disorders (G47)                                  |   0.003  |
 | Other disorders of urinary system (N39)                |   0.0027 |
+
+
 | Phenotype 15                                                  |   Weight |
 |:--------------------------------------------------------------|---------:|
 | Major depressive disorder, single episode, unspecified (F329) |   0.0192 |
@@ -198,6 +228,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | TRAZODONE 100 mg tablet                                       |   0.0014 |
 | FLUOXETINE 20 mg CAPSULE                                      |   0.0014 |
 | CITALOPRAM 20 mg tablet                                       |   0.0013 |
+
+
 | Phenotype 16                                           |   Weight |
 |:-------------------------------------------------------|---------:|
 | Overweight and obesity (E66)                           |   0.0509 |
@@ -210,6 +242,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Overweight (E663)                                      |   0.0032 |
 | ibuprofen (MOTRIN) 800 mg tablet                       |   0.0031 |
 | Other obesity due to excess calories (E6609)           |   0.0025 |
+
+
 | Phenotype 17                                                                              |   Weight |
 |:------------------------------------------------------------------------------------------|---------:|
 | peg 3350-electrolytes (TRILYTE WITH FLAVOR PACKETS) 420 gram solution                     |   0.0376 |
@@ -222,6 +256,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Benign neoplasm of transverse colon (D123)                                                |   0.0027 |
 | Diverticular disease of intestine (K57)                                                   |   0.0026 |
 | Diverticulosis of large intestine without perforation or abscess without bleeding (K5730) |   0.0026 |
+
+
 | Phenotype 18                                                  |   Weight |
 |:--------------------------------------------------------------|---------:|
 | ASPIRIN 81 mg CHEWABLE tablet                                 |   0.0678 |
@@ -234,6 +270,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | METOPROLOL TARTRATE 25 mg tablet                              |   0.0028 |
 | lisinopril-hydrochlorothiazide (ZESTORETIC) 20-12.5 mg tablet |   0.0027 |
 | omeprazole (PRILOSEC) 40 mg delayed release capsule           |   0.0026 |
+
+
 | Phenotype 19                                         |   Weight |
 |:-----------------------------------------------------|---------:|
 | Dorsalgia (M54)                                      |   0.0092 |
@@ -246,6 +284,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Lumbago with sciatica, right side (M5441)            |   0.0012 |
 | Dorsalgia, unspecified (M549)                        |   0.0011 |
 | Spondylosis (M47)                                    |   0.001  |
+
+
 | Phenotype 20                                                                   |   Weight |
 |:-------------------------------------------------------------------------------|---------:|
 | FOLIC ACID 1 mg tablet                                                         |   0.013  |
@@ -258,6 +298,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Other rheumatoid arthritis (M06)                                               |   0.0069 |
 | ATORVASTATIN 10 mg tablet                                                      |   0.0055 |
 | PREDNISONE 10 mg tablet                                                        |   0.0043 |
+
+
 | Phenotype 21                                                   |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Disorders of lipoprotein metabolism and other lipidemias (E78) |   0.0297 |
@@ -270,6 +312,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Sleep disorders (G47)                                          |   0.0064 |
 | Obesity, unspecified (E669)                                    |   0.006  |
 | Pain, not elsewhere classified (G89)                           |   0.0056 |
+
+
 | Phenotype 22                                                                |   Weight |
 |:----------------------------------------------------------------------------|---------:|
 | GABAPENTIN 300 mg CAPSULE                                                   |   0.0109 |
@@ -282,6 +326,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | HYDROcodone-acetaminophen (NORCO) 7.5-325 mg tablet                         |   0.0005 |
 | Neuralgia and neuritis, unspecified (M792)                                  |   0.0005 |
 | triamcinolone 0.1 % cream                                                   |   0.0005 |
+
+
 | Phenotype 23                                                |   Weight |
 |:------------------------------------------------------------|---------:|
 | Essential (primary) hypertension (I10)                      |   0.0591 |
@@ -294,6 +340,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | sildenafil (VIAGRA) 100 mg tablet                           |   0.0014 |
 | Benign prostatic hyperplasia (N40)                          |   0.0014 |
 | Other abnormal glucose (R7309)                              |   0.0011 |
+
+
 | Phenotype 24                                    |   Weight |
 |:------------------------------------------------|---------:|
 | Disorders of refraction and accommodation (H52) |   0.0197 |
@@ -306,6 +354,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Disorders of vitreous body (H43)                |   0.006  |
 | Age-related nuclear cataract, bilateral (H2513) |   0.0049 |
 | Hypermetropia, bilateral (H5203)                |   0.0046 |
+
+
 | Phenotype 25                                                                |   Weight |
 |:----------------------------------------------------------------------------|---------:|
 | Other joint disorder, not elsewhere classified (M25)                        |   0.0218 |
@@ -318,6 +368,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Pain in left knee (M25562)                                                  |   0.0043 |
 | Bilateral primary osteoarthritis of knee (M170)                             |   0.0037 |
 | Unilateral primary osteoarthritis, right knee (M1711)                       |   0.0029 |
+
+
 | Phenotype 26                                                              |   Weight |
 |:--------------------------------------------------------------------------|---------:|
 | Nausea and vomiting (R11)                                                 |   0.0277 |
@@ -330,6 +382,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Other disorders of fluid, electrolyte and acid-base balance (E87)         |   0.0182 |
 | PROCHLORPERAZINE MALEATE 10 mg tablet                                     |   0.0172 |
 | Diarrhea, unspecified (R197)                                              |   0.017  |
+
+
 | Phenotype 27                                                                      |   Weight |
 |:----------------------------------------------------------------------------------|---------:|
 | CHOLECALCIFEROL (VITAMIN D3) 1,000 UNIT tablet                                    |   0.0185 |
@@ -342,6 +396,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | omega-3 fatty acids-fish oil 300-1,000 mg Capsule                                 |   0.0011 |
 | Other disorders of urinary system (N39)                                           |   0.001  |
 | Other symptoms and signs involving the genitourinary system (R3989)               |   0.0009 |
+
+
 | Phenotype 28                                                   |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Disorders of lipoprotein metabolism and other lipidemias (E78) |   0.0705 |
@@ -354,6 +410,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Gastro-esophageal reflux disease (K21)                         |   0.0089 |
 | Gastro-esophageal reflux disease without esophagitis (K219)    |   0.0087 |
 | Major depressive disorder, single episode, unspecified (F329)  |   0.0072 |
+
+
 | Phenotype 29                                                                |   Weight |
 |:----------------------------------------------------------------------------|---------:|
 | Pain, not elsewhere classified (G89)                                        |   0.0655 |
@@ -366,6 +424,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Pain, unspecified (R52)                                                     |   0.0099 |
 | Pain in left knee (M25562)                                                  |   0.0086 |
 | Lumbago with sciatica, right side (M5441)                                   |   0.0085 |
+
+
 | Phenotype 30                                                |   Weight |
 |:------------------------------------------------------------|---------:|
 | Sleep disorders (G47)                                       |   0.1222 |
@@ -378,6 +438,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Other extrapyramidal and movement disorders (G25)           |   0.0044 |
 | Restless legs syndrome (G2581)                              |   0.0044 |
 | loratadine (CLARITIN) 10 mg tablet                          |   0.0038 |
+
+
 | Phenotype 31                                                    |   Weight |
 |:----------------------------------------------------------------|---------:|
 | ASPIRIN 81 mg tablet,DELAYED RELEASE                            |   0.0789 |
@@ -390,6 +452,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | METOPROLOL SUCCINATE ER 50 mg tablet,EXTENDED RELEASE 24 HR     |   0.0026 |
 | pravastatin (PRAVACHOL) 40 mg tablet                            |   0.0024 |
 | ACETAMINOPHEN 325 mg tablet                                     |   0.002  |
+
+
 | Phenotype 32                                         |   Weight |
 |:-----------------------------------------------------|---------:|
 | ELECT/CALORIC/H2O                                    |   0.0313 |
@@ -402,6 +466,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | ATORVASTATIN 10 mg tablet                            |   0.0016 |
 | Iron deficiency anemia (D50)                         |   0.0016 |
 | pantoprazole (PROTONIX) 40 mg delayed release tablet |   0.0013 |
+
+
 | Phenotype 33                                  |   Weight |
 |:----------------------------------------------|---------:|
 | LISINOPRIL 20 mg tablet                       |   0.0231 |
@@ -414,6 +480,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | HYDROCHLOROTHIAZIDE 25 mg tablet              |   0.0013 |
 | PREDNISOLONE ACETATE 1 % EYE DROPS,SUSPENSION |   0.0012 |
 | CLOPIDOGREL 75 mg tablet                      |   0.0011 |
+
+
 | Phenotype 34                                                    |   Weight |
 |:----------------------------------------------------------------|---------:|
 | ALBUTEROL SULFATE HFA 90 MCG/ACTUATION AEROSOL INHALER          |   0.1497 |
@@ -426,6 +494,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Mild intermittent asthma, uncomplicated (J4520)                 |   0.0157 |
 | TIOTROPIUM BROMIDE 18 MCG CAPSULE WITH INHALATION DEVICE        |   0.0144 |
 | budesonide-formoterol (SYMBICORT) 160-4.5 mcg/actuation inhaler |   0.0118 |
+
+
 | Phenotype 35                                        |   Weight |
 |:----------------------------------------------------|---------:|
 | ACETAMINOPHEN 500 mg tablet                         |   0.0743 |
@@ -438,6 +508,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | IBUPROFEN 200 mg tablet                             |   0.0056 |
 | cholecalciferol (VITAMIN D3) 2,000 unit capsule     |   0.0044 |
 | omega-3 fatty acids-fish oil 300-1,000 mg Capsule   |   0.0036 |
+
+
 | Phenotype 36                                                   |   Weight |
 |:---------------------------------------------------------------|---------:|
 | Type 2 diabetes mellitus (E11)                                 |   0.0463 |
@@ -450,6 +522,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | METFORMIN 500 mg tablet                                        |   0.0046 |
 | metFORMIN (GLUCOPHAGE XR) 500 mg 24 hr tablet                  |   0.0034 |
 | insulin glargine (LANTUS SOLOSTAR) 100 unit/mL injection pen   |   0.0033 |
+
+
 | Phenotype 37                                          |   Weight |
 |:------------------------------------------------------|---------:|
 | Other anxiety disorders (F41)                         |   0.0347 |
@@ -462,6 +536,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Major depressive disorder, recurrent (F33)            |   0.0024 |
 | Major depressive disorder, recurrent, moderate (F331) |   0.0024 |
 | CLONAZEPAM 0.5 mg tablet                              |   0.0023 |
+
+
 | Phenotype 38                                                   |   Weight |
 |:---------------------------------------------------------------|---------:|
 | ATORVASTATIN 20 mg tablet                                      |   0.0737 |
@@ -474,6 +550,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | DULoxetine (CYMBALTA) 30 mg delayed release capsule            |   0.003  |
 | ALLOPURINOL 100 mg tablet                                      |   0.0024 |
 | Disorders of lipoprotein metabolism and other lipidemias (E78) |   0.0023 |
+
+
 | Phenotype 39                                    |   Weight |
 |:------------------------------------------------|---------:|
 | Disorders of refraction and accommodation (H52) |   0.0389 |
@@ -486,6 +564,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Myopia, bilateral (H5213)                       |   0.0175 |
 | Unspecified astigmatism, bilateral (H52203)     |   0.0155 |
 | Disorders of vitreous body (H43)                |   0.0152 |
+
+
 | Phenotype 40                                             |   Weight |
 |:---------------------------------------------------------|---------:|
 | METFORMIN 500 mg tablet                                  |   0.0634 |
@@ -498,6 +578,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | TIOTROPIUM BROMIDE 18 MCG CAPSULE WITH INHALATION DEVICE |   0.0033 |
 | SERTRALINE 50 mg tablet                                  |   0.0029 |
 | aspirin, buffered (BUFFERIN LOW DOSE) 81 mg Tablet       |   0.0029 |
+
+
 | Phenotype 41                                        |   Weight |
 |:----------------------------------------------------|---------:|
 | Hypothyroidism, unspecified (E039)                  |   0.0269 |
@@ -510,6 +592,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | LEVOTHYROXINE 25 MCG tablet                         |   0.0014 |
 | Menopausal and other perimenopausal disorders (N95) |   0.0012 |
 | ACETAMINOPHEN 325 mg tablet                         |   0.0011 |
+
+
 | Phenotype 42                                            |   Weight |
 |:--------------------------------------------------------|---------:|
 | Disorders of lacrimal system (H04)                      |   0.0613 |
@@ -522,6 +606,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | cycloSPORINE (RESTASIS) 0.05 % ophthalmic dropperette   |   0.0084 |
 | Unspecified glaucoma (H409)                             |   0.0079 |
 | Other inflammation of eyelid (H01)                      |   0.0076 |
+
+
 | Phenotype 43                                                                 |   Weight |
 |:-----------------------------------------------------------------------------|---------:|
 | Osteoporosis without current pathological fracture (M81)                     |   0.019  |
@@ -534,6 +620,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | polyethylene glycol 3350 (MIRALAX) 17 g/dose powder                          |   0.0031 |
 | Dermatophytosis (B35)                                                        |   0.0031 |
 | Tinea unguium (B351)                                                         |   0.003  |
+
+
 | Phenotype 44                                                             |   Weight |
 |:-------------------------------------------------------------------------|---------:|
 | Gastro-esophageal reflux disease (K21)                                   |   0.0639 |
@@ -546,6 +634,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Aphagia and dysphagia (R13)                                              |   0.0047 |
 | Dysphagia, unspecified (R1310)                                           |   0.0045 |
 | Asthma (J45)                                                             |   0.0044 |
+
+
 | Phenotype 45                                                |   Weight |
 |:------------------------------------------------------------|---------:|
 | OMEPRAZOLE 20 mg CAPSULE,DELAYED RELEASE                    |   0.0659 |
@@ -558,6 +648,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | LEVOTHYROXINE 100 MCG tablet                                |   0.0015 |
 | alendronate (FOSAMAX) 70 mg tablet                          |   0.0013 |
 | METOPROLOL SUCCINATE ER 25 mg tablet,EXTENDED RELEASE 24 HR |   0.0012 |
+
+
 | Phenotype 46                                                                    |   Weight |
 |:--------------------------------------------------------------------------------|---------:|
 | Skin changes due to chronic exposure to nonionizing radiation (L57)             |   0.0174 |
@@ -570,6 +662,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | triamcinolone 0.1 % cream                                                       |   0.0053 |
 | Other benign neoplasms of skin (D23)                                            |   0.0052 |
 | Melanocytic nevi (D22)                                                          |   0.0051 |
+
+
 | Phenotype 47                                                                |   Weight |
 |:----------------------------------------------------------------------------|---------:|
 | Dorsalgia (M54)                                                             |   0.0252 |
@@ -582,6 +676,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Other anxiety disorders (F41)                                               |   0.0065 |
 | HYDROCODONE 5 mg-ACETAMINOPHEN 325 mg tablet                                |   0.0064 |
 | Overweight and obesity (E66)                                                |   0.0064 |
+
+
 | Phenotype 48                                      |   Weight |
 |:--------------------------------------------------|---------:|
 | amLODIPine (NORVASC) 5 mg tablet                  |   0.078  |
@@ -594,6 +690,8 @@ Code and results repository for study to evaluate interpretable models' ability 
 | Essential (primary) hypertension (I10)            |   0.0024 |
 | ascorbic acid (VITAMIN C) 500 mg Tablet           |   0.0023 |
 | omega-3 fatty acids-fish oil 300-1,000 mg Capsule |   0.0022 |
+
+
 | Phenotype 49                                                                   |   Weight |
 |:-------------------------------------------------------------------------------|---------:|
 | Chronic kidney disease (CKD) (N18)                                             |   0.0107 |
